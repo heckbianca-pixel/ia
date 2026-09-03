@@ -65,7 +65,7 @@ h1 {
 }
 
 .caixa-resultado {
-    display: none; /* Fica oculto até o final do jogo */
+    display: none;
     flex-direction: column;
     gap: 15px;
     background-color: #0f3460;
