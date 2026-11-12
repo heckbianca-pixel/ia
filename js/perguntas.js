@@ -7,7 +7,8 @@ const perguntas = [
                afirmacao: [
                    "A inteligência artificial pode criar conteúdos tão realistas que dificultam a identificação de informações falsas.",
                    "O uso dessa tecnologia pode trazer riscos à privacidade e facilitar a criação de notícias falsas."
-               ]
+               ],
+               proxima: 1,
            },
            {
                texto: "Isso é maravilhoso!",
@@ -26,14 +27,16 @@ const perguntas = [
                afirmacao: [
                    "A inteligência artificial pode ajudar a localizar informações relevantes e explicar assuntos complexos de forma simples.",
                    "É importante verificar a confiabilidade das respostas e utilizar o próprio entendimento para desenvolver o trabalho."
-               ]
+               ],
+               proxima: 2,
            },
            {
                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                afirmacao: [
                    "Pesquisar em diferentes fontes e conversar com colegas permite conhecer opiniões variadas sobre o tema.",
                    "Utilizar os próprios conhecimentos ajuda a desenvolver a autonomia e o pensamento crítico."
-               ]
+               ],
+               proxima: 3,
            }
        ]
    },
@@ -45,14 +48,16 @@ const perguntas = [
                afirmacao: [
                    "A automação pode substituir algumas atividades profissionais e diminuir vagas em determinados setores.",
                    "Investir na capacitação profissional é importante para ajudar os trabalhadores a enfrentar as mudanças tecnológicas."
-               ]
+               ],
+               proxima: 4,
            },
            {
                texto: "Defendo a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                afirmacao: [
                    "O desenvolvimento da inteligência artificial pode gerar novas profissões e oportunidades de trabalho.",
                    "A IA pode auxiliar os profissionais em tarefas complexas e permitir que dediquem mais tempo a atividades criativas."
-               ]
+               ],
+               proxima: 5,
            }
        ]
    },
@@ -64,14 +69,16 @@ const perguntas = [
                afirmacao: [
                    "Criar uma imagem manualmente permite desenvolver habilidades artísticas e expressar ideias de maneira pessoal.",
                    "Utilizar ferramentas de desenho ajuda a praticar técnicas digitais e estimula a criatividade."
-               ]
+               ],
+               proxima: 6,
            },
            {
                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
                afirmacao: [
                    "Um gerador de imagens com inteligência artificial transforma descrições escritas em representações visuais.",
                    "Essa ferramenta permite explorar estilos diferentes e produzir imagens em pouco tempo."
-               ]
+               ],
+               proxima: 7,
            }
        ]
    },
@@ -83,14 +90,14 @@ const perguntas = [
                afirmacao: [
                    "A inteligência artificial pode apresentar erros e informações imprecisas, por isso é necessário conferir o conteúdo produzido.",
                    "Acrescentar ideias próprias ao trabalho ajuda a demonstrar compreensão do assunto e valoriza a contribuição de cada integrante."
-               ]
+               ],
            },
            {
                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
                afirmacao: [
                    "Escrever comandos específicos ajuda a inteligência artificial a produzir respostas relacionadas ao tema solicitado.",
                    "Copiar todo o texto gerado sem revisar ou compreender o conteúdo pode prejudicar a aprendizagem e a originalidade do trabalho."
-               ]
+               ],
            }
        ]
    }
