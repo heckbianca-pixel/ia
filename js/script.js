@@ -88,5 +88,3 @@ botaoJogarNovamente.addEventListener("click", jogaNovamente);
 
 
 substituiNome();
-
-
